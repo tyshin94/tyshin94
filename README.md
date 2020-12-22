@@ -1,16 +1,15 @@
-### Hi there 👋
+# Taeyang Shin 🌞
 
-<!--
-**tyshin94/tyshin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈Current
+- 데이터 분석 마케팅으로 근무하고 있습니다:) 앞으로 머신러닝를 활용한 예측 모형 프로젝트 위주로 공부할 계획입니다!
+- I am working as a data analysis marketing:) I plan to study mainly on predictive model projects using machine learning in the future!
 
-Here are some ideas to get you started:
+### ✔️Career
+**Student Intern(2018.12 - 2019.02)**
+- KERI(Korea Electrotechnology Research Institute): Power grid communication network and machine learning deep learning technique development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education(2020.7 - 2020.12)**
+- MODULABS_AIFFEL: Deep Learning Computer Vision
+
+### 📫Contact me
+- tyshin94@yonsei.ac.kr
