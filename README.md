@@ -1,7 +1,7 @@
 # Taeyang Shin 🌞
 
 ### Current
-___
+---
 ✔️ I am working as a data analysis marketing:) I plan to study mainly on predictive model projects using machine learning in the future!
 
 ### Career
